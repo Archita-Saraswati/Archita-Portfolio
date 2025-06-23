@@ -14,5 +14,7 @@ It highlights my skills, showcases selected projects, and provides easy ways to 
 - 🌙 Dark Mode (enabled by default)
 - ☁️ Deployed on Vercel
 
+🔗 **Live Website:** [https://archita-portfolio-pwbrhzsgl-archita-saraswatis-projects.vercel.app/](https://archita-portfolio-pwbrhzsgl-archita-saraswatis-projects.vercel.app/)
+
 
 Explore the portfolio to know more about my journey and work!
