@@ -18,7 +18,7 @@ const projects = [
   description: 'Modern full-stack marketplace using Gemini Vision API to extract car details, with test drive booking, wishlist, and admin dashboard.',
   image: '/projects/project2.png', // Make sure to add this image in your public/projects folder
   tags: ['Next.js 15', 'Tailwind CSS', 'Prisma', 'Supabase', 'Gemini AI'],
-  demoUrl: 'https://vehicleai.vercel.app',
+  demoUrl: 'https://ai-car-marketplace-6402qw0ai-archita-saraswatis-projects.vercel.app/',
   githubUrl: 'https://github.com/Archita-Saraswati/ai-car-marketplace',
 },
 
