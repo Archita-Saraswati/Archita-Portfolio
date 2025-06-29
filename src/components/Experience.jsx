@@ -17,15 +17,7 @@ const Experience = () => {
       "Implemented Socket.IO for real-time interactions and secure session handling via custom React hooks.",
       ],
     },
-    {
-      company: "Freelance Projects",
-      role: "Frontend Developer",
-      duration: "2024 – Present",
-      description: [
-        "Developed modern UIs using Tailwind CSS, Framer Motion, and ShadCN.",
-        "Created animated responsive components with dark/light theme toggles.",
-      ],
-    },
+   
   ];
 
   return (
