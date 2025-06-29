@@ -33,7 +33,8 @@ export const HeroSection = () => {
                 strings: [
                   'Full-Stack Developer',
                   'AI Explorer',
-                  'Web Innovator'
+                  'Web Innovator',
+                  
                 ],
                 autoStart: true,
                 loop: true,

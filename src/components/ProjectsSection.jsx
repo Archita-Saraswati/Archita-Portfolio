@@ -12,15 +12,16 @@ const projects = [
     demoUrl: 'https://prepai-dxw2zjahz-archita-saraswatis-projects.vercel.app/',
     githubUrl: 'https://github.com/Archita-Saraswati/AI-Powered-Conversational-and-Visual-Generation-System',
   },
-  {
-    id: 2,
-    title: 'Visual & Conversational AI',
-    description: 'Full-stack app using Gemini API and DALL·E for real-time chat and image generation.',
-    image: '/projects/project2.png',
-    tags: ['React', 'Node.js', 'Gemini API', 'DALL·E'],
-    demoUrl: 'https://devbot-alpha.vercel.app/',
-    githubUrl: 'https://github.com/Archita-Saraswati/AI-Career-Coach-Personalized-Job-Guidance-App',
-  },
+{
+  id: 2,
+  title: 'VehicleAI: AI Car Marketplace',
+  description: 'Modern full-stack marketplace using Gemini Vision API to extract car details, with test drive booking, wishlist, and admin dashboard.',
+  image: '/projects/project2.png', // Make sure to add this image in your public/projects folder
+  tags: ['Next.js 15', 'Tailwind CSS', 'Prisma', 'Supabase', 'Gemini AI'],
+  demoUrl: 'https://vehicleai.vercel.app',
+  githubUrl: 'https://github.com/Archita-Saraswati/ai-car-marketplace',
+},
+
   {
     id: 3,
     title: 'Real-Time Chat App',
