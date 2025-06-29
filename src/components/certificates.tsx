@@ -7,10 +7,10 @@ const certifications = [
   {
     id: 7,
     type: 'Publication',
-    title: 'AI-Powered Career Guidance using Gemini API',
-    organization: 'IEEE ICAISI 2025',
-    date: 'Apr 2025',
-    description: 'Published a research paper showcasing real-time job guidance and intelligent user profiling using Gemini AI.',
+    title: 'Top2Vec: Analysis for Unsupervised Topic Discovery',
+    organization: 'ICAISI 2025 (Scopus Indexed)',
+    date: 'May 2025',
+    description: 'Published a research paper on unsupervised topic modeling using Top2Vec, showcasing enhanced clustering and semantic analysis techniques for intelligent text data understanding.',
     link: 'https://drive.google.com/file/d/15TsCIhilQq1ZsVBeA9Mz-R5P4diK6Pks/view',
   },
   {
