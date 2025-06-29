@@ -17,7 +17,7 @@ const certifications = [
     id: 1,
     type: 'Certification',
     title: 'Deloitte Australia – Technology Job Simulation',
-    organization: 'Forage',
+    organization: 'Deloitte (Forage)',
     date: 'Jun 2025',
     description: 'Completed Deloitte’s job simulation program covering software development and problem-solving scenarios.',
     link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_h4gQxREBab2cCJMft_1750876534821_completion_certificate.pdf',
