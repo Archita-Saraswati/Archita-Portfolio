@@ -10,7 +10,7 @@ const projects = [
     image: '/projects/project1.png',
     tags: ['Next.js', 'Prisma', 'Clerk', 'TailwindCSS'],
     demoUrl: 'https://prepai-dxw2zjahz-archita-saraswatis-projects.vercel.app/',
-    githubUrl: 'https://github.com/Archita-Saraswati/AI-Powered-Conversational-and-Visual-Generation-System',
+    githubUrl: 'https://github.com/Archita-Saraswati/AI-Career-Coach-Personalized-Job-Guidance-App',
   },
 {
   id: 2,
